@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/collaborative-task-manager-367-377/task_management_frontend"
+}
